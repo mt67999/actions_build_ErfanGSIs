@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/20.4.27/miui_MIMIX3_20.4.27_8f7879221b_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://59-47-225-47.pd1.123pan.cn:30443/download-cdn.123pan.cn/123-22/88965b47/1815802233-0/88965b47ad03285a15522405f03a7016/c-m6?v=5&t=1707242789&s=170724278951ce8f50059858dc4fc1b750a0f7786d&r=G2NZOB&bzc=1&bzs=1815802233&filename=R15.zip&x-mf-biz-cid=108ea0f4-85dc-4c35-ad13-eac7ef3bd432-47df1e&auto_redirect=0&ndcp=1&cache_type=1&xmfcid=e10c580b-9fc8-4700-b8b0-c45395fcb0c0-0-9eed82220
+  ROM_NAME: ColorOS
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
